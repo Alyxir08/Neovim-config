@@ -1,2 +1,4 @@
 # Neovim-config
-My config for neovim
+## Features
+- 4 spaces tabstop
+- Relative number for easy finding in file
